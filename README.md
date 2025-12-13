@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 🏠 Will/ZX HOME
 
-You can use the [editor on GitHub](https://github.com/zhengjialux/zhengjialux.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 👋 欢迎来到我的数字世界
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你好！我是 Will/ZX，这里是我的个人主页，一个展示我的技术项目、创意探索和学习心得的平台。
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🚀 快速开始
 
-```markdown
-Syntax highlighted code block
+### 访问方式
+| 平台 | 链接 | 描述 |
+|------|------|------|
+| 🏠 主站 | [zhengjialux.github.io](https://zhengjialux.github.io) | 个人主页和导航 |
+| 💻 CodePlayground | [访问链接](https://zhengjialux.github.io/Entry/CodePlayground/) | 在线编程环境 |
+| 🖼️ ExampleGalleryTR | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/) | 项目展示画廊 |
 
-# Header 1
-## Header 2
-### Header 3
+### 使用指南
 
-- Bulleted
-- List
+#### 📚 CodePlayground 使用流程
+1. 🌐 在浏览器中打开 CodePlayground 页面
+2. ✏️ 在代码编辑器中输入你的代码
+3. ▶️ 点击运行按钮执行代码
+4. 👀 查看实时的执行结果和输出信息
 
-1. Numbered
-2. List
+#### 🎨 ExampleGalleryTR 使用流程
+1. 🔍 浏览精心整理的示例项目列表
+2. 🎯 点击感兴趣的示例查看详细信息和实现
+3. 💡 按照示例说明进行学习和实践
+4. 🔄 可以基于示例进行修改和创新
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 📧 联系我
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **GitHub**：[zhengjialux](https://github.com/zhengjialux) - 查看我的代码仓库和项目
+- **Email**：[zhengjialu8507@gmail.com](mailto:zhengjialux@gmail.com) - 直接邮件联系
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengjialux/zhengjialux.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 🌱 持续成长
 
-### Support or Contact
+我正在不断学习和探索新的技术领域，这个网站也会随着我的学习进程持续更新。欢迎常来看看最新的项目和内容！
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*感谢你的访问！* ✨
