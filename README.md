@@ -13,7 +13,8 @@
 |------|------|------|
 | 🏠 主站 | [zhengjialux.github.io](https://zhengjialux.github.io) | 个人主页和导航 |
 | 💻 CodePlayground | [访问链接](https://zhengjialux.github.io/Entry/CodePlayground/) | 在线编程环境 |
-| 🖼️ ExampleGalleryTR | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/) | 项目展示画廊 |
+| 🖼️ ExampleGalleryTR | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/) | React 组件展示画廊 |
+| 🖼️ ExampleGalleryTV | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTV/) | Vue 组件展示画廊 |
 
 ### 使用指南
 
@@ -23,7 +24,7 @@
 3. ▶️ 点击运行按钮执行代码
 4. 👀 查看实时的执行结果和输出信息
 
-#### 🎨 ExampleGalleryTR 使用流程
+#### 🎨 ExampleGalleryT(R/V) 使用流程
 1. 🔍 浏览精心整理的示例项目列表
 2. 🎯 点击感兴趣的示例查看详细信息和实现
 3. 💡 按照示例说明进行学习和实践
