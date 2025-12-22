@@ -110,7 +110,7 @@ const config = {
       excerpt: "不抛弃心中的梦想，不放弃脚下的坚持，不退缩于眼前的困难。",
       date: "2025-12-22",
       category: "励志",
-      readTime: "8 min",
+      readTime: "22:44:15",
       url: "/blog/never-give-up.md",
     },
   ],
