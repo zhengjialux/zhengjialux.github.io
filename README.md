@@ -13,8 +13,10 @@
 |------|------|------|
 | 🏠 主站 | [zhengjialux.github.io](https://zhengjialux.github.io) | 个人主页和导航 |
 | 💻 CodePlayground | [访问链接](https://zhengjialux.github.io/Entry/CodePlayground/) | 在线编程环境 |
-| 🖼️ ExampleGalleryTR | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/) | React 组件展示画廊 |
-| 🖼️ ExampleGalleryTV | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTV/) | Vue 组件展示画廊 |
+| ⚛️ ExampleGalleryTR | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/) | React 组件展示画廊 |
+| 🚀 ExampleGalleryTV | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTV/) | Vue 组件展示画廊 |
+| 🖼️ ImageAIProcessing | [访问链接](https://zhengjialux.github.io/Entry/ImageAIProcessing/) | 图像处理工具 |
+| 🔐 KeyPreview | [访问链接](https://zhengjialux.github.io/Entry/KeyPreview/) | 秘钥处理工具 |
 
 ### 使用指南
 
