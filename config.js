@@ -3,7 +3,7 @@ const config = {
   me: {
     name: "Will/ZX",
     title: "全栈开发者 · 独立创作者",
-    bio: "把疯狂的想法写成代码，把代码变成现实",
+    bio: "把想法写成代码，用代码方便现实",
     avatar: "https://avatars.githubusercontent.com/u/20078022?v=4",
     links: [
       {
@@ -125,7 +125,7 @@ const config = {
     {
       id: 1,
       title: "Never give up",
-      excerpt: "不抛弃心中的梦想，不放弃脚下的坚持，不退缩于眼前的困难。",
+      excerpt: "Adhere to the law of quantitative and qualitative changes.",
       date: "2025-12-22",
       category: "励志",
       readTime: "20:15",
