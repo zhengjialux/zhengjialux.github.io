@@ -689,7 +689,7 @@ const config = {
       title: "Mock.js",
       url: "http://mockjs.com/",
       category: "文档",
-      icon: "http://mockjs.com/assets/img/logo-2.svg",
+      icon: "./icons/mock-favicon.svg",
     },
     {
       id: 99,
@@ -982,9 +982,9 @@ const config = {
     {
       id: 140,
       title: "Openvpn Connect",
-      url: "https://www.filehorse.com/download-openvpn-connect/download/",
+      url: "https://openvpn.net/client/",
       category: "工具",
-      icon: "./icons/filehorse-favicon.ico",
+      icon: "./icons/openvpn-favicon.ico",
     },
     {
       id: 141,
@@ -1203,6 +1203,20 @@ const config = {
       category: "工具",
       icon: "https://openresty.org/favicon.ico",
     },
+    {
+      id: 172,
+      title: "MongoDB 中文社区",
+      url: "https://mongoing.com/",
+      category: "社区",
+      icon: "./icons/mongoing-favicon.ico",
+    },
+    {
+      id: 173,
+      title: "Moment.js",
+      url: "https://momentjs.com/",
+      category: "工具",
+      icon: "./icons/moment-favicon.png",
+    }
   ],
   categoryIcons: {
     all: "📚",
@@ -1233,4 +1247,3 @@ const config = {
     GIS: "🗺️",
   },
 };
-
