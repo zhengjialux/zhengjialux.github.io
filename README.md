@@ -9,24 +9,28 @@
 ## 🚀 快速开始
 
 ### 访问方式
-| 平台 | 链接 | 描述 |
-|------|------|------|
-| 🏠 主站 | [zhengjialux.github.io](https://zhengjialux.github.io) | 个人主页和导航 |
-| 💻 CodePlayground | [访问链接](https://zhengjialux.github.io/Entry/CodePlayground/) | 在线编程环境 |
-| ⚛️ ExampleGalleryTR | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/) | React 组件展示画廊 |
-| 🚀 ExampleGalleryTV | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTV/) | Vue 组件展示画廊 |
-| 🖼️ ImageAIProcessing | [访问链接](https://zhengjialux.github.io/Entry/ImageAIProcessing/) | 图像处理工具 |
-| 🔐 KeyPreview | [访问链接](https://zhengjialux.github.io/Entry/KeyPreview/) | 秘钥处理工具 |
+
+| 平台                 | 链接                                                               | 描述                 |
+| -------------------- | ------------------------------------------------------------------ | -------------------- |
+| 🏠 主站              | [zhengjialux.github.io](https://zhengjialux.github.io)             | 个人主页和导航       |
+| 💻 CodePlayground    | [访问链接](https://zhengjialux.github.io/Entry/CodePlayground/)    | 在线编程环境         |
+| ⚛️ ExampleGalleryTR  | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTR/)  | React 组件展示画廊   |
+| 🚀 ExampleGalleryTV  | [访问链接](https://zhengjialux.github.io/Entry/ExampleGalleryTV/)  | Vue 组件展示画廊     |
+| 🖼️ ImageAIProcessing | [访问链接](https://zhengjialux.github.io/Entry/ImageAIProcessing/) | 图像处理工具         |
+| 🔐 KeyPreview        | [访问链接](https://zhengjialux.github.io/Entry/KeyPreview/)        | 秘钥处理工具         |
+| 🔍 SQLSyntax         | [访问链接](https://zhengjialux.github.io/Entry/SQLSyntax/)         | SQL 语法在线测试工具 |
 
 ### 使用指南
 
 #### 📚 CodePlayground 使用流程
+
 1. 🌐 在浏览器中打开 CodePlayground 页面
 2. ✏️ 在代码编辑器中输入你的代码
 3. ▶️ 点击运行按钮执行代码
 4. 👀 查看实时的执行结果和输出信息
 
 #### 🎨 ExampleGalleryT(R/V) 使用流程
+
 1. 🔍 浏览精心整理的示例项目列表
 2. 🎯 点击感兴趣的示例查看详细信息和实现
 3. 💡 按照示例说明进行学习和实践
@@ -45,4 +49,4 @@
 
 我正在不断学习和探索新的技术领域，这个网站也会随着我的学习进程持续更新。欢迎常来看看最新的项目和内容！
 
-*感谢你的访问！* ✨
+_感谢你的访问！_ ✨
