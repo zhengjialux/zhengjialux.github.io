@@ -1258,6 +1258,13 @@ const config = {
       url: "https://zhengjialux.github.io/Entry/SQLSyntax/",
       category: "工具",
       icon: "https://zhengjialux.github.io/Entry/SQLSyntax/favicon.svg",
+    },
+    {
+      id: 180,
+      title: '英伟达开发者社区',
+      url: 'https://build.nvidia.com/',
+      category: "社区",
+      icon: "https://build.nvidia.com/favicon.ico",
     }
   ],
   categoryIcons: {
@@ -1289,5 +1296,6 @@ const config = {
     GIS: "🗺️",
   },
 };
+
 
 
