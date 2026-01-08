@@ -1266,13 +1266,6 @@ const config = {
       category: "社区",
       icon: "https://build.nvidia.com/favicon.ico",
     },
-    {
-      id: 181,
-      title: 'Drawio',
-      url: 'https://www.drawio.com/',
-      category: "工具",
-      icon: "https://www.drawio.com/favicon.ico",
-    }
   ],
   categoryIcons: {
     all: "📚",
@@ -1303,6 +1296,7 @@ const config = {
     GIS: "🗺️",
   },
 };
+
 
 
 
