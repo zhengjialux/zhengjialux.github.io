@@ -2,7 +2,7 @@
 
 ### 整体架构 ✨
 
-![整体架构](/blog/backend/images/img1.png)
+![整体架构](/blog/node/images/img1.png)
 
 ### 五个问题 🎯
 

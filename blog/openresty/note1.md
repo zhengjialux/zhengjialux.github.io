@@ -145,3 +145,5 @@ $ openresty -s stop -p ~/my-service/ -c ~/my-service/conf/my.conf     # 快速�
 $ openresty -s quit -p ~/my-service/ -c ~/my-service/conf/my.conf     # 优雅停止
 $ openresty -s reload -p ~/my-service/ -c ~/my-service/conf/my.conf   # 重新加载配置
 ```
+
+
