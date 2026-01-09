@@ -1349,6 +1349,13 @@ const config = {
       url: 'https://algorithm-visualizer.org/',
       category: "工具",
       icon: "https://algorithm-visualizer.org/favicon.png",
+    },
+    {
+      id: 193,
+      title: 'UnoCSS',
+      url: 'https://unocss.dev/',
+      category: "文档",
+      icon: "https://unocss.dev/favicon.svg",
     }
   ],
   categoryIcons: {
@@ -1380,4 +1387,5 @@ const config = {
     BOOK: "📚",
   },
 };
+
 
