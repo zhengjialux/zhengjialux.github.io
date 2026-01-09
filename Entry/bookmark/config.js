@@ -260,28 +260,28 @@ const config = {
       title: "代码在线调试",
       url: "https://zhengjialux.github.io/Entry/CodePlayground/",
       category: "工具",
-      icon: "https://zhengjialux.github.io./icons/JPCodePlayground.svg",
+      icon: "https://zhengjialux.github.io/icons/JPCodePlayground.svg",
     },
     {
       id: 38,
       title: "百宝箱",
       url: "https://zhengjialux.github.io/Entry/KeyPreview/",
       category: "工具",
-      icon: "https://zhengjialux.github.io./icons/KeyPreview.svg",
+      icon: "https://zhengjialux.github.io/icons/KeyPreview.svg",
     },
     {
       id: 39,
       title: "图片处理",
       url: "https://zhengjialux.github.io/Entry/ImageAIProcessing/",
       category: "工具",
-      icon: "https://zhengjialux.github.io./icons/ImageAIProcessing.png",
+      icon: "https://zhengjialux.github.io/icons/ImageAIProcessing.png",
     },
     {
       id: 40,
       title: "颜色选择器",
       url: "https://zhengjialux.github.io/Entry/ColorPanel/",
       category: "工具",
-      icon: "https://zhengjialux.github.io./icons/ColorPanel.svg",
+      icon: "https://zhengjialux.github.io/icons/ColorPanel.svg",
     },
     {
       id: 41,
@@ -1471,6 +1471,7 @@ const config = {
     BOOK: "📚",
   },
 };
+
 
 
 
