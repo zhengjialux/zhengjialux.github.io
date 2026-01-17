@@ -66,6 +66,8 @@ RESTful API 的典型特征：
 - 对资源的操作可以返回不同的状态码，用于表示操作的结果。
 - 对资源的操作可以返回不同的媒体类型（如 JSON、XML 等），客户端可以根据需要选择接受的媒体类型。
 
+**当我们说开发一个 RESTful API 时，意思就是遵循 REST 原则，使用 HTTP 协议提供的所有特性来设计 API 接口。**
+ 
 ## 状态码 🔥
 
 [MDN 参考](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Reference/Status)
@@ -130,3 +132,4 @@ RESTful API 的典型特征：
 | 503    | Service Unavailable 服务不可用              | 服务器没有准备好处理请求。常见原因是服务器因维护或重载而停机。                       | HTTP/0.9  |
 | 504    | Gateway Timeout 网关超时                    | 当服务器充当网关且无法及时获得响应时，会给出此错误响应。                             | HTTP/1.1  |
 | 505    | HTTP Version Not Supported 不支持的HTTP版本 | 服务器不支持请求中使用的 HTTP 版本。                                                 | HTTP/1.1  |
+
