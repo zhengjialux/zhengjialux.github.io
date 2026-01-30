@@ -1461,6 +1461,12 @@ const config = {
       category: "文档",
       icon: "https://pugjs.org/images/favicon.ico",
     },
+    {
+      title: "Kubernetes",
+      url: "https://kubernetes.io/",
+      category: "环境",
+      icon: "https://kubernetes.io/icons/favicon-32.png",
+    }
   ],
   categoryIcons: {
     视频: "🎬",
@@ -1492,6 +1498,7 @@ const config = {
     Mark: "⭐",
   },
 };
+
 
 
 
