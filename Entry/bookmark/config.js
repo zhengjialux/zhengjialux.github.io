@@ -1478,6 +1478,12 @@ const config = {
       url: "https://datahub.com/",
       category: "工具",
       icon: "./icons/dataHub-favicon.webp",
+    },
+    {
+      title: "NPMX",
+      url: "https://npmx.dev/",
+      category: "社区",
+      icon: "https://npmx.dev/favicon.svg",
     }
   ],
   categoryIcons: {
@@ -1510,6 +1516,7 @@ const config = {
     Mark: "⭐",
   },
 };
+
 
 
 
