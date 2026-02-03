@@ -1490,6 +1490,12 @@ const config = {
       url: "https://nestjs.com/",
       category: "Node.js",
       icon: "./icons/nest-favicon.ico",
+    },
+    {
+      title: "Hono",
+      url: "https://hono.dev/",
+      category: "Node.js",
+      icon: "https://hono.dev/favicon.ico",
     }
   ],
   categoryIcons: {
@@ -1522,6 +1528,7 @@ const config = {
     Mark: "⭐",
   },
 };
+
 
 
 
