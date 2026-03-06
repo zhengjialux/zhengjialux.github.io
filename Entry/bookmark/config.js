@@ -1642,9 +1642,15 @@ const config = {
       icon: "https://www.douban.com/favicon.ico",
     },
     {
+      title: "像素蛋糕",
+      url: "https://www.pixcakeai.com/",
+      category: "摄影",
+      icon: "https://www.pixcakeai.com/favicon.ico",
+    },
+    {
       title: "花瓣",
       url: "https://huaban.com/",
-      category: "资讯",
+      category: "摄影",
       icon: "https://huaban.com/favicon.ico",
     }
   ],
@@ -1677,7 +1683,6 @@ const config = {
     BOOK: "📚",
     Mark: "⭐",
     解决方案: "💡",
+    摄影: "📷"
   },
 };
-
-
