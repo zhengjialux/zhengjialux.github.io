@@ -1476,7 +1476,7 @@ const config = {
     {
       title: "Mongoose ODM",
       url: "https://mongoosejs.com/",
-      category: "工具",
+      category: "数据库",
       icon: "https://mongoosejs.com/docs/images/favicon/favicon-32x32.png",
     },
     {
