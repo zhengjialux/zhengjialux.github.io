@@ -1712,6 +1712,24 @@ const config = {
       url: "https://docs.nestjs.cn/",
       category: "Node.js",
       icon: "",
+    },
+    {
+      title: "Prisma",
+      url: "https://www.prisma.io/",
+      category: "数据库",
+      icon: "",
+    },
+    {
+      title: "Drizzle",
+      url: "https://orm.drizzle.team/",
+      category: "数据库",
+      icon: "",
+    },
+    {
+      title: "TypeORM",
+      url: "https://typeorm.io/",
+      category: "数据库",
+      icon: "",
     }
   ],
   categoryIcons: {
