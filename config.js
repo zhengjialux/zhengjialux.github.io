@@ -298,7 +298,7 @@ const config = {
       title: "会话管理",
       excerpt: "掌握常用的用户登录会话管理机制",
       date: "2026-03-26",
-      category: "sql",
+      category: "auth",
       readTime: "20:54",
       url: "/blog/auth/note1.md",
     },
