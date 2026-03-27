@@ -111,14 +111,14 @@ const config = {
       url: "https://github.com",
       category: "社区",
       icon: "https://github.githubassets.com/favicons/favicon-dark.svg",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "NPM",
       url: "https://www.npmjs.com/",
       category: "社区",
       icon: "./icons/npm-b0f1a8318363185cc2ea6a40ac23eeb2.png",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Docker Hub",
@@ -126,6 +126,7 @@ const config = {
       category: "社区",
       icon: "https://hub.docker.com/favicon.ico",
       bgColor: "#ffffff",
+      Mark: false,
     },
     {
       title: "Gitee",
@@ -283,6 +284,7 @@ const config = {
       url: "https://www.apizza.net/",
       category: "工具",
       icon: "https://www.apizza.net/favicon.ico",
+      Mark: false,
     },
     {
       title: "D3",
@@ -631,7 +633,7 @@ const config = {
       url: "https://lovable.dev/",
       category: "UI",
       icon: "",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "LeetCode",
