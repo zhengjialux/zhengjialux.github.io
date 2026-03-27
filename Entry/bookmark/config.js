@@ -626,7 +626,7 @@ const config = {
       url: "https://v0.app/",
       category: "UI",
       icon: "./icons/v0-favicon.svg",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Lovable",
@@ -797,6 +797,7 @@ const config = {
       url: "https://stitch.withgoogle.com/",
       category: "UI",
       icon: "./icons/stitch-favicon-32x32.png",
+      Mark: true,
     },
     {
       title: "墨刀",
@@ -1781,12 +1782,14 @@ const config = {
       url: "https://uizard.io/",
       category: "UI",
       icon: "",
+      Mark: true,
     },
     {
-      title: "摹客",
-      url: "https://www.mockplus.cn/",
+      title: "摹客 AI",
+      url: "https://www.mockplus.cn/ai",
       category: "UI",
       icon: "",
+      Mark: true,
     },
     {
       title: "NoteGPT",
@@ -1821,12 +1824,6 @@ const config = {
     {
       title: "Bolt.new",
       url: "https://bolt.new",
-      category: "UI",
-      icon: "",
-    },
-    {
-      title: "Replit AI",
-      url: "https://replit.com",
       category: "UI",
       icon: "",
     },
