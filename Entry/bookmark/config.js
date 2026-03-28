@@ -114,6 +114,20 @@ const config = {
       Mark: false,
     },
     {
+      title: "uni-app",
+      url: "https://uniapp.dcloud.net.cn/",
+      category: "跨终端框架",
+      icon: "./icons/uni-icon.png",
+      Mark: false,
+    },
+    {
+      title: "PostgreSQL Docs",
+      url: "https://www.postgresql.org/docs/",
+      category: "数据库",
+      icon: "https://www.postgresql.org/favicon.ico",
+      Mark: false,
+    },
+    {
       title: "GitHub",
       url: "https://github.com",
       category: "社区",
@@ -399,13 +413,6 @@ const config = {
       icon: "https://vuex.vuejs.org/logo.png",
     },
     {
-      title: "uni-app",
-      url: "https://uniapp.dcloud.net.cn/",
-      category: "跨终端框架",
-      icon: "./icons/uni-icon.png",
-      Mark: false,
-    },
-    {
       title: "微信小程序",
       url: "https://mp.weixin.qq.com/",
       category: "跨终端框架",
@@ -448,13 +455,6 @@ const config = {
       url: "https://dev.mysql.com/doc/refman/8.0/en/",
       category: "数据库",
       icon: "./icons/mysql-favicon.ico",
-      Mark: false,
-    },
-    {
-      title: "PostgreSQL Docs",
-      url: "https://www.postgresql.org/docs/",
-      category: "数据库",
-      icon: "https://www.postgresql.org/favicon.ico",
       Mark: false,
     },
     {
