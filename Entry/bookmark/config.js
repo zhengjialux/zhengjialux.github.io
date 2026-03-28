@@ -82,28 +82,28 @@ const config = {
       url: "https://nodejs.org/docs/latest/api/",
       category: "Node.js",
       icon: "https://nodejs.org/static/images/favicons/favicon.png",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Git Docs",
       url: "https://git-scm.com/docs",
       category: "文档",
       icon: "https://git-scm.com/favicon.ico",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Webpack Docs",
       url: "https://webpack.docschina.org/concepts/",
       category: "文档",
       icon: "./icons/webpack-f326220248556af65f41.ico",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Nginx",
       url: "https://nginx.org/en/docs/",
       category: "环境",
       icon: "https://nginx.org/favicon.ico",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Docker",
@@ -111,7 +111,7 @@ const config = {
       category: "环境",
       icon: "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png",
       bgColor: "#ffffff",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "GitHub",
@@ -133,7 +133,7 @@ const config = {
       category: "社区",
       icon: "https://hub.docker.com/favicon.ico",
       bgColor: "#ffffff",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "Gitee",
@@ -483,7 +483,7 @@ const config = {
       url: "https://docs.python.org/zh-cn/3.9/c-api/index.html",
       category: "Python",
       icon: "https://docs.python.org/zh-cn/3.9/_static/py.svg",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "PyPI",
@@ -1119,7 +1119,7 @@ const config = {
       url: "https://go.dev/learn/",
       category: "社区",
       icon: "https://go.dev/images/favicon-gopher.svg",
-      Mark: false,
+      Mark: true,
     },
     {
       title: "易语言",
