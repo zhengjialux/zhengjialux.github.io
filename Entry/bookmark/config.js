@@ -45,6 +45,13 @@ const config = {
       Mark: false,
     },
     {
+      title: "Vue",
+      url: "https://cn.vuejs.org/",
+      category: "Vue",
+      icon: "https://cn.vuejs.org/logo.svg",
+      Mark: false,
+    },
+    {
       title: "TypeScript Docs",
       url: "https://www.typescriptlang.org",
       category: "文档",
@@ -312,13 +319,6 @@ const config = {
       url: "https://nuxt.com/",
       category: "Vue",
       icon: "https://nuxt.com/icon.png",
-      Mark: false,
-    },
-    {
-      title: "Vue",
-      url: "https://cn.vuejs.org/",
-      category: "Vue",
-      icon: "https://cn.vuejs.org/logo.svg",
       Mark: false,
     },
     {
