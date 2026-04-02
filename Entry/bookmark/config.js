@@ -917,7 +917,7 @@ const config = {
     {
       title: "Cherry AI",
       url: "https://www.cherry-ai.com/",
-      category: "工具",
+      category: "AI",
       icon: "./icons/cherry-favicon.png",
     },
     {
