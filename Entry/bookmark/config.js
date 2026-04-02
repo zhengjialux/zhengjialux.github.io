@@ -1872,6 +1872,12 @@ const config = {
       url: "https://developers.llamaindex.ai/",
       category: "AI",
       icon: "",
+    },
+    {
+      title: "Ollama",
+      url: "https://ollama.com/",
+      category: "AI",
+      icon: "",
     }
   ],
   categoryIcons: {
