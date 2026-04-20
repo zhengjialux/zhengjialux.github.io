@@ -1732,13 +1732,13 @@ const config = {
     {
       title: "扣子",
       url: "https://www.coze.cn/overview",
-      category: "AI",
+      category: "未来趋势",
       icon: "",
     },
     {
       title: "编程导航",
       url: "https://www.codefather.cn/",
-      category: "社区",
+      category: "未来趋势",
       icon: "",
     },
     {
